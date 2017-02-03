@@ -1,4 +1,3 @@
-@@ -0,0 +1,816 @@
 #include <a_samp>
 #include <streamer>
 #include <JunkBuster>
