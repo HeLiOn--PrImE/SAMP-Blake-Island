@@ -1,6 +1,5 @@
-#include <a_samp>
+#include <open.mp>
 #include <streamer>
-#include <JunkBuster>
 #define _streamer_included
 
 #define sd 350.0 //streaming distance (350.0 is recommended, change it as you like)
